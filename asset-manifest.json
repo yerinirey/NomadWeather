@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/static/js/main.ccb8783f.js",
+    "static/js/108.bb32b0cb.js": "/static/js/108.bb32b0cb.js",
+    "static/media/MaterialCommunityIcons.ttf": "/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
+    "static/media/BlackHanSans_400Regular.ttf": "/static/media/BlackHanSans_400Regular.f4f89062321390018f92.ttf",
+    "favicon.ico": "/favicon.ico",
+    "index.html": "/index.html",
+    "favicon-32.png": "/favicon-32.png",
+    "favicon-16.png": "/favicon-16.png",
+    "manifest.json": "/manifest.json",
+    "serve.json": "/serve.json",
+    "main.ccb8783f.js.map": "/static/js/main.ccb8783f.js.map",
+    "108.bb32b0cb.js.map": "/static/js/108.bb32b0cb.js.map"
+  },
+  "entrypoints": [
+    "static/js/108.bb32b0cb.js",
+    "static/js/main.ccb8783f.js"
+  ]
+}
